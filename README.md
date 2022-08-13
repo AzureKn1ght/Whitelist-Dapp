@@ -12,33 +12,25 @@ Scenario: You are launching your NFT collection named `Crypto Devs`. You want to
 
 ---
 
-## Build 🚀
+## Build 
 
 ### Technologies Used: 
 - [Hardhat](https://hardhat.org/)
-- Solidity
-- Ethers.js
-- React.js
-- Next.js
+- [Solidity](https://soliditylang.org/)
+- [Ethers.js](https://github.com/ethers-io/ethers.js/)
+- [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
 
 
 ---
 
-## Deploying your dApp
+## Deploy 🚀
 
-We will now deploy your dApp, so that everyone can see your website and you can share it with all of your LearnWeb3 DAO friends.
+We will now deploy the dApp, so that everyone can see the website.
 
-- Go to [Vercel](https://vercel.com/) and sign in with your GitHub
-- Then click on `New Project` button and then select your Whitelist dApp repo
-- ![](https://i.imgur.com/ZRjfkCE.png)
-- When configuring your new project, Vercel will allow you to customize your `Root Directory`
-- Click `Edit` next to `Root Directory` and set it to `my-app`
-- Select the Framework as `Next.js`
-- Click `Deploy`
-- Now you can see your deployed website by going to your dashboard, selecting your project, and copying the URL from there!
+### Smart Contract 
+https://goerli.etherscan.io/address/0xf51ccb5d3b54a5b4d08121945a6d64d9524894b9
 
-Share your website in Discord :D
+### Dapp Frontend
+https://whitelist-dapp-azurekn1ght.vercel.app/
 
-## Verification
-
-To verify this level, make sure you have whitelisted some addresses in your contract. Input your contract address into the Smart Contract Verification box, and select the test network you deployed on.
