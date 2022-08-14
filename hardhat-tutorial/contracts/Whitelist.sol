@@ -41,4 +41,4 @@ contract Whitelist {
     }
 }
 
-// Deployed to: https://goerli.etherscan.io/address/0xf51ccb5d3b54a5b4d08121945a6d64d9524894b9 
+// Deployed to: https://goerli.etherscan.io/address/0xf51ccb5d3b54a5b4d08121945a6d64d9524894b9
